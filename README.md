@@ -240,15 +240,6 @@ Variáveis excluídas:
 
 ---
 
-## 👥 Autores
-
-| Nome           | Curso                                       | Instituição |
-| -------------- | ------------------------------------------- | ----------- |
-| João Augusto   | ADS (Análise e Desenvolvimento de Sistemas) | UFMS        |
-| Murilo Emanoel | BCC (Bacharelado em Ciência da Computação)  | UFMS        |
-
----
-
 ## 📝 Licença
 
 Este projeto está sob a licença MIT. Consulte o arquivo LICENSE para mais detalhes.
@@ -267,7 +258,7 @@ Para dúvidas ou sugestões sobre este projeto:
 
 <div align="center">
 
-**Desenvolvido com ❤️ para fins educacionais**
+**Desenvolvido para fins educacionais**
 
 Última atualização: 2026
 
